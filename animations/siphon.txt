@@ -1,0 +1,6 @@
+:regional_indicator_s:
+:regional_indicator_s::regional_indicator_i:
+:regional_indicator_s::regional_indicator_i::regional_indicator_p:
+:regional_indicator_s::regional_indicator_i::regional_indicator_p::regional_indicator_h:
+:regional_indicator_s::regional_indicator_i::regional_indicator_p::regional_indicator_h::regional_indicator_o:
+:regional_indicator_s::regional_indicator_i::regional_indicator_p::regional_indicator_h::regional_indicator_o::regional_indicator_n:
